@@ -1,14 +1,14 @@
 # CV
 # Basmanov Nikita
 # Contacts
-* Tel: +380667868183 (Ukraine)
-* E-mail: nikitabasmanov2707@gmail.com
+* Tel: *** (Ukraine)
+* E-mail: nikitabasmanov***@gmail.com
 * Discord: Pitsa#1748
 # Brief personal information
 * 16 y.o.
-* I study at the Physics and Technology Lyceum(high school)
+* I study at the Physics and Technology Lyceum(secondary school)
 * live in Ukraine
-* My aim is to acquire skills Frontend devolper before graduation
+* My goal is to acquire skills Frontend devolper before graduation
 * Code quality hints are welcome
 # My skills
 * Git
