@@ -1,1 +1,1 @@
-https://pitsa1748.github.io/rsschool-cv/cv
+https://github.com/Pitsa1748/rsschool-cv/blob/gh-pages/CV.md
