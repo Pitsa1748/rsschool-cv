@@ -14,7 +14,7 @@
 * Git
 * HTML(basic)
 * CSS (basic)
-* JS
+* JS (basic)
 # Sample Code
 not yet
 # Work experience
