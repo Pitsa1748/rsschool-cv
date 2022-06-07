@@ -5,7 +5,7 @@
 * E-mail: nikitabasmanov***@gmail.com
 * Discord: Pitsa#1748
 # Brief personal information
-* 16 y.o.
+* 17 y.o.
 * I study at the Physics and Technology Lyceum(secondary school)
 * live in Ukraine
 * My goal is to acquire skills Frontend devolper before graduation
