@@ -1,1 +1,1 @@
-https://pitsa1748.github.io/rsschool-cv/cv
+https://pitsa1748.github.io/rsschool-cv/CV
